@@ -9,6 +9,7 @@
     "jsx": "react",
     "noLib": false,
     "allowJs": true,
+    "ignoreDeprecations": "5.0",
     "suppressImplicitAnyIndexErrors": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
